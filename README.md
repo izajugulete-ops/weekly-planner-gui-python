@@ -21,9 +21,3 @@ A desktop productivity application designed to help users organize their weekly 
 * **GUI Framework:** `Tkinter` & `ttk` for a responsive desktop experience.
 * **Data Management:** `json` module for structured data serialization.
 * **File I/O:** `pathlib` for robust cross-platform file path handling.
-
-## 🚀 How to Run
-
-1. **Clone the Repository:**
-   ```bash
-   git clone [https://github.com/izajugulete-ops/weekly-planner-python.git](https://github.com/izajugulete-ops/weekly-planner-python.git)
