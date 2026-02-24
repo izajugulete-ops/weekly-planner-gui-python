@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+
+weekly_planner.json
+
+.vscode/
+.idea/
+
+.DS_Store
+Thumbs.db
